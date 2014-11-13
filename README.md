@@ -1,5 +1,5 @@
-DynForms
-========
+MDMD
+====
 
 Implementation of the Discrete Multicriteria Decision Methodology in Google Spreadsheets, to aid decision making
 
